@@ -1,1 +1,1 @@
-This is my first Git project. 
+Short description of repository
